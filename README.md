@@ -1,5 +1,6 @@
+<img src="https://github.com/AmandaLima-a/AmandaLima-a/blob/main/banner.png?raw=true" alt="banner"/>
 
-### Hi There 👋
+<h1> Hi There 👋 </h1>
 
 Eu sou a Amanda Lima, sou uma desenvolvedora Front End, atualmente estou criando projetos com:
   - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
