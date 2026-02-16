@@ -1,34 +1,43 @@
 <img src="https://github.com/AmandaLima-a/AmandaLima-a/blob/main/banner.png?raw=true" alt="banner"/>
 
-<h1> Hi There 👋 </h1>
+👋 Olá! Eu sou a Amanda Lima
 
-Eu sou a Amanda Lima, sou uma desenvolvedora Front End, atualmente estou criando projetos com:
-  - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
-  - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
-  - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript-logo"/>
-  - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo"/>
-<br>
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em Desenvolvimento Front-end. Tenho interesse em criar interfaces funcionais, bem estruturadas e com boa experiência para o usuário, aplicando na prática os conhecimentos adquiridos em estudos e projetos.
 
-<!--
-### Conecte-se comigo
+Atualmente, estou em constante aprendizado por meio de cursos, documentações e desenvolvimento de projetos, buscando evoluir tecnicamente e consolidar minha base na área de tecnologia.
 
-<p>
-Clique para ir direto para a minha página do: <br>
-  <br>
-    <a href="linkedin.com/in/amanda-suelen-de-jesus-lima-2b0aa1233"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin"/></a>
-</p>
--->
+🚀 Tecnologias que utilizo
+<div style="display: inline_block"><br> <img align="center" alt="HTML5" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS3" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> <img align="center" alt="React" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> </div>
+🧠 Conhecimentos
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!--<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>-->
-<a href="linkedin.com/in/amanda-suelen-de-jesus-lima-2b0aa1233" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-</p>
+Desenvolvimento Front-end com HTML, CSS, JavaScript e React
 
-<br>
+Consumo de APIs REST
 
-[![Amanda stats](https://github-readme-stats.vercel.app/api?username=AmandaLima-a&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaLima-a&layout=normal&hide=php&langs_count=3&theme=merko)
+Componentização e uso de React Hooks
 
+Estilização com Styled Components
 
+Controle de versão com Git e GitHub
+
+Noções básicas de Figma para prototipação
+
+📚 Em aprendizado
+
+Boas práticas de desenvolvimento Front-end
+
+Aprimoramento em React
+
+Organização de código e projetos
+
+Experiência do usuário (UX)
+
+📫 Entre em contato comigo
+
+💼 LinkedIn: linkedin.com/in/amanda-de-jesus-lima
+
+💻 GitHub: github.com/AmandaLima-a
+
+✨ Objetivo
+
+Busco uma oportunidade de estágio ou posição júnior para aplicar meus conhecimentos, aprender na prática e contribuir com projetos reais em um ambiente colaborativo.
