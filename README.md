@@ -24,8 +24,9 @@ Atualmente, estou em constante aprendizado por meio de cursos, documentações e
 
 <h1>📫 Entre em contato comigo:</h1>
 
-> 💼 LinkedIn: linkedin.com/in/amanda-de-jesus-lima <br>
-> 💻 GitHub: github.com/AmandaLima-a
+💼 LinkedIn: [linkedin.com/in/amanda-de-jesus-lima](https://www.linkedin.com/in/amanda-de-jesus-lima/) <br>
+💻 GitHub: [github.com/AmandaLima-a](https://github.com/AmandaLima-a)
+
 
 <h1>✨ Objetivo:</h1>
 
